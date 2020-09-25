@@ -1,0 +1,30 @@
+{
+  "email": "recipient@example.com",
+  "cart": {
+    "total": "$114.80",
+    "items": [
+      {
+        "item": "Cupcake variety pack - dozen",
+        "price": "$19.95"
+      },
+      {
+        "item": "New York cheesecake",
+        "price": "$34.95"
+      },
+      {
+        "item": "8 inch triple chocolote cake",
+        "price": "$29.95"
+      },
+      {
+        "item": "Tiramisu",
+        "price": "$29.95"
+      }
+    ],
+    "confirmation_number": "79uxgAMW2q",
+    "name": "B. Undt",
+    "address01": "1234 Pretend Pl.",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97227"
+  }
+}
