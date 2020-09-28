@@ -19,14 +19,16 @@ In this workshop, you’ll learn how to:
 
 After the workshop, you can use the resources below to get started with the Mail Send API in the language of your choice. We've included links to our helper libraries, documentation, and the materials used in the workshop.
 
+### TwilioQuest
+
+[TwilioQuest](https://www.twilio.com/quest)
+
 ### Twilio SendGrid documentation and API reference
 
 - [Twilio SendGrid documentation](https://sendgrid.com/docs)
 - [Twilio SendGrid API reference](https://sendgrid.api-docs.io/v3.0/)
 
 ### Mail Send API quickstarts by language
-
-TODO: Add quickstarts
 
 - [Node.js](https://sendgrid.com/docs/for-developers/sending-email/quickstart-nodejs)
 - [Python](https://sendgrid.com/docs/for-developers/sending-email/quickstart-python)
