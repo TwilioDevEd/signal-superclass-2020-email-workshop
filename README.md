@@ -21,7 +21,7 @@ After the workshop, you can use the resources below to get started with the Mail
 
 ### TwilioQuest
 
-[TwilioQuest](https://www.twilio.com/quest)
+- [TwilioQuest](https://www.twilio.com/quest)
 
 ### Twilio SendGrid documentation and API reference
 
