@@ -10,6 +10,6 @@ To receive HTTP requests to localhost, you can run [ngrok](https://ngrok.com/) o
 
 Remember to complete the prerequisites in the [outline](../outline.md) file and to change the `to`, `from`, and `templateID` if you want to run this app on your own.
 
-Additionaly, to create environments variables only locally, run `cp .env.example .env` and add the variable value with yours.
+To set your environment variables when running locally, copy the `.env.example` file to `.env` with the `cp .env.example .env` command. Edit the `.env` file to add your own environment values.
 
 **NOTE:** `NODE_ENV` is set to `development` as default
