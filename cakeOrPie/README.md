@@ -12,4 +12,4 @@ Remember to complete the prerequisites in the [outline](../outline.md) file and 
 
 To set your environment variables when running locally, copy the `.env.example` file to `.env` with the `cp .env.example .env` command. Edit the `.env` file to add your own environment values.
 
-**NOTE:** `NODE_ENV` is set to `development` as default
+**NOTE:** `NODE_ENV` is set to `production` as default
