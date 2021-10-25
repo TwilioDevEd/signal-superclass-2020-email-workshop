@@ -9,3 +9,7 @@ If you want to test this setup, you can send the sample request body with your o
 To receive HTTP requests to localhost, you can run [ngrok](https://ngrok.com/) or launch the app with [Docker](https://www.docker.com/).
 
 Remember to complete the prerequisites in the [outline](../outline.md) file and to change the `to`, `from`, and `templateID` if you want to run this app on your own.
+
+To set your environment variables when running locally, copy the `.env.example` file to `.env` with the `cp .env.example .env` command. Edit the `.env` file to add your own environment values.
+
+**NOTE:** `NODE_ENV` is set to `production` as default

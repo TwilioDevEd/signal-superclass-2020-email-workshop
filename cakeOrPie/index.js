@@ -14,6 +14,13 @@ app.post("/checkout", (req, res) => {
   res.end(`{"success": true}`);
 });
 
+app.use((error, req, res, next) => {
+  res.status(500)
+  res.send({error: error})
+  console.error(error.stack)
+  next(error)
+})
+
 http.createServer(app).listen(8080, () => {
   console.log("Express server listening on port 8080");
 });
